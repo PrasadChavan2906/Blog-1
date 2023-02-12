@@ -111,7 +111,7 @@ hr {
   padding-top: 5rem;
 }
 
-..hero .hero-img {
+.hero .hero-img {
   max-width: 80%;
   width: 550px;
   display: block;
